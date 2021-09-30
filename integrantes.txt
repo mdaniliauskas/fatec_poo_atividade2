@@ -1,0 +1,9 @@
+Análise e Desenvolvimento de Sistemas - FATEC Ipiranga - Vespertino
+
+Disciplina: Programação Orientada a Objetos
+Professor: Rodrigo Bossini
+
+Integrantes:
+Arthur de Lima do Nascimento - RA 2040482022001
+Marcelo Daniliauskas - RA 2040482022022
+
